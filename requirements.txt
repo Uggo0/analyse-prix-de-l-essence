@@ -1,0 +1,9 @@
+requests
+python-dotenv
+SQLAlchemy
+psycopg2-binary
+APScheduler
+streamlit
+pandas
+plotly
+jupyter

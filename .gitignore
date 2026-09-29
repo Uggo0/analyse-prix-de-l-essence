@@ -1,0 +1,25 @@
+# Environnement Python
+.venv/
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+
+# Docker
+postgres_data/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/
+
+# Notes d'apprentissage personnelles
+.artifacts/
+
+# Editeurs / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
